@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED for MarketPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-14 14:31+0000\n"
+"PO-Revision-Date: 2017-06-14 14:31+0000\n"
+"Last-Translator: unimatrix0 <gabriel.s@merovingi.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_US"
+
+#: mycred-marketpress.php:233
+msgid "Store Payment (MarketPress)"
+msgstr ""
+
+#: mycred-marketpress.php:234
+msgid "Store Sale (MarketPress)"
+msgstr ""
+
+#: mycred-marketpress.php:235
+msgid "Store Reward (MarketPress)"
+msgstr ""
+
+#: mycred-marketpress.php:295
+msgid "More information about this plugin"
+msgstr ""
+
+#: mycred-marketpress.php:297
+msgid "View details"
+msgstr ""
+
+#: mycred-marketpress.php:362
+msgid "This myCRED Add-on requires WordPress 4.0 or higher. Version detected:"
+msgstr ""
+
+#: mycred-marketpress.php:367
+msgid "This myCRED Add-on requires PHP 5.3 or higher. Version detected: "
+msgstr ""
+
+#: mycred-marketpress.php:372
+msgid "This myCRED Add-on requires SQL 5.0 or higher. Version detected: "
+msgstr ""
+
+#: mycred-marketpress.php:376
+msgid ""
+"This add-on requires myCRED 1.7 or higher. Older versions of myCRED has "
+"built-in support for MarketPress making this plugin redundant."
+msgstr ""
+
+#: mycred-marketpress.php:382
+msgid ""
+"Sorry but your WordPress installation does not reach the minimum "
+"requirements for running this add-on. The following errors were given:"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:156 classes/class.myCRED-Gateway3.php:115
+msgid "Current Balance"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:160 classes/class.myCRED-Gateway3.php:119
+msgid "Total Cost"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:164 classes/class.myCRED-Gateway3.php:123
+msgid "Balance After Purchase"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:190
+msgid "Payment"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:194 classes/class.myCRED-Gateway.php:250
+#: classes/class.myCRED-Gateway3.php:167
+msgid "Go Back"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:199
+msgid "will be deducted from your account."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:239 classes/class.myCRED-Gateway3.php:155
+#, php-format
+msgid ""
+"Sorry, but you can not use this gateway as your account is excluded. Please "
+"<a href=\"%s\">select a different payment method</a>."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:269 classes/class.myCRED-Gateway3.php:185
+msgid "Paid"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:391
+msgid "%_singular% Balance"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:394 classes/class.myCRED-Gateway3.php:205
+#: classes/class.myCRED-Gateway3.php:396
+msgid "Payment for Order: #%order_id%"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:397
+msgid "Product Sale: %post_title%"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:398
+msgid "Pay using your account balance."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:399
+msgid ""
+"TOTAL amount has been deducted from your account. Your current balance is: "
+"%balance_f%"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:401
+msgid ""
+"You must be logged in to pay with %_plural%. Please <a "
+"href=\"%login_url_here%\">login</a>."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:407 classes/class.myCRED-Gateway3.php:347
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:409
+#, php-format
+msgid ""
+"Let your users pay for items in their shopping cart using their %s Account. "
+"Note! This gateway requires your users to be logged in when making a "
+"purchase!"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:412 classes/class.myCRED-Gateway3.php:359
+msgid "Method Name"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:414 classes/class.myCRED-Gateway3.php:360
+msgid ""
+"Enter a public name for this payment method that is displayed to users - No "
+"HTML"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:419
+msgid "Gateway Logo URL"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:425 classes/class.myCRED-Gateway3.php:366
+msgid "Point Type"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:431 classes/class.myCRED-Gateway.php:470
+msgid "Log Template"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:442
+msgid "How much is 1 %_singular% worth in %currency%?"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:448 classes/class.myCRED-Gateway3.php:373
+msgid "Exchange Rate"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:463
+msgid "Percentage"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:465
+msgid "Option to share sales with the product owner. Use zero to disable."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:480 classes/class.myCRED-Gateway3.php:95
+#: classes/class.myCRED-Gateway3.php:166 classes/class.myCRED-Gateway3.php:390
+msgid "Insufficient Funds"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:482
+msgid "Message to show when the user can not use this gateway."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:488 classes/class.myCRED-Gateway3.php:380
+msgid "Visitors"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:490
+msgid "Message to show to buyers that are not logged in."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:496 classes/class.myCRED-Gateway3.php:416
+msgid "User Instructions"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:498
+msgid "Information to show users before payment."
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:504
+msgid "Confirmation Information"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:506
+msgid "Information to display on the order confirmation page. - HTML allowed"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:512 classes/class.myCRED-Gateway3.php:421
+msgid "Order Confirmation Email"
+msgstr ""
+
+#: classes/class.myCRED-Gateway.php:514
+#, php-format
+msgid ""
+"This is the email text to send to those who have made %s checkouts. It "
+"overrides the default order checkout email. These codes will be replaced "
+"with order details: CUSTOMERNAME, ORDERID, ORDERINFO, SHIPPINGINFO, "
+"PAYMENTINFO, TOTAL, TRACKINGURL. No HTML allowed."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:81 classes/class.myCRED-Gateway3.php:147
+msgid "Please login to use this payment option."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:288
+msgid "Order #%order_id% payout"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:349
+msgid "Let users pay using their point balance."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:368
+msgid ""
+"Select the point type you wish to accept as payment in your store. If this "
+"store only accepts points as payment, make sure you select the same point "
+"type you set as your store currency!"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:374
+msgid ""
+"The Exchange rate between your stores selected currency and the selected "
+"point type. If this is a points store, make sure this is set to 1. Example: "
+"100 points = 1 USD the exchange rate would be: 0.01"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:381
+msgid ""
+"Message to show when the gateway is viewed by someone who is not logged in "
+"on your website. Only logged in users can use this gateway!"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:385
+msgid "Excluded"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:386
+msgid ""
+"Message to show when the gateway is viewed by someone who has been excluded "
+"from using the selected point type."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:391
+msgid ""
+"Message to show when the gateway is viewed by someone who can not afford to "
+"pay using points."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:397
+msgid "Payment Log Template"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:398
+msgid ""
+"The log entry template used for each point payment. This template is what "
+"the buyer will see in their points history. CAN NOT BE EMPTY!"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:404
+msgid "Profit Sharing"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:405
+msgid ""
+"Option to share a percentage of the product price with the product owner "
+"each time a product is purchased using points. Use zero to disable."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:410
+msgid "Profit Share Log Template"
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:411
+msgid ""
+"The log entry template used for each profit share payout. This template is "
+"what the seller will see in their points history. Ignored if profit sharing "
+"is disabled."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:417
+msgid ""
+"Optional instructions to show users when selecting to pay using points. "
+"Their current balance, the total cost of the order in points along with "
+"their future balance if they choose to pay is also included."
+msgstr ""
+
+#: classes/class.myCRED-Gateway3.php:422
+msgid ""
+"This is the email text to send to those who have paid using points. It "
+"overrides the default order checkout email. These codes will be replaced "
+"with order details: CUSTOMERNAME, ORDERID, ORDERINFO, SHIPPINGINFO, "
+"PAYMENTINFO, TOTAL, TRACKINGURL. No HTML allowed."
+msgstr ""
+
+#. Description of the plugin
+msgid "Let users pay using myCRED points in your MarketPress store."
+msgstr ""

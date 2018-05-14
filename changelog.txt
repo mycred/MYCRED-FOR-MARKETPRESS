@@ -1,0 +1,9 @@
+Version 1.1
+------------------------------------------------------------
+FIX - Added support for MarketPress 3.2+
+FIX - Added missing strings to translation files.
+NEW - Added filter to adjust how prices are displayed in MarketPress when points are selected as the currency.
+
+Version 1.0
+------------------------------------------------------------
+Initial release.
